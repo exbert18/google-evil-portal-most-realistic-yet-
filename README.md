@@ -1,10 +1,10 @@
 # google-evil-portal-most-realistic-yet-
 
-Evil portal files for the Snapchat login. ONLY TO BE USED EDUCATIONALY
+Evil portal files for the google login. ONLY TO BE USED EDUCATIONALY
 
 CREDIT TO THE CREATOR OF THIS README AS I DONT WANT ANY LEAGL TROUBLE HE IS LINKED DOWN BELOW AND FOR OTHER HTML FILES USE HIS EVIL PORTAL FILES THANKS! https://github.com/Batcherss/evil-portal-html/commits?author=Batcherss
 
-A collection of Snapchat Login HTML pages for Evil Portal. For use in controlled educational environments only. Only for testing on your own devices with explicit authorization.
+A collection of Google Login HTML pages for Evil Portal. For use in controlled educational environments only. Only for testing on your own devices with explicit authorization.
 
 WARNING
 
@@ -33,3 +33,4 @@ Upload the desired portal folder to your device.
 DISCLAIMER
 
 This software is provided "as is", without warranty of any kind. The authors are not responsible for any damages, legal consequences, or issues arising from the use or misuse of this software. All content is for educational purposes only. Unauthorized testing is illegal. Period.
+i have no affiliation with google
